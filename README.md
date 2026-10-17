@@ -1,0 +1,1 @@
+# semiconductor-factor-strategy
